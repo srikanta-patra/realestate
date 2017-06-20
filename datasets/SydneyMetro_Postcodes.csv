@@ -1,0 +1,203 @@
+suburb,state,postcode
+Sydney City,NSW,2000
+Ultimo,NSW,2007
+Chippendale,NSW,2008
+Pyrmont,NSW,2009
+Surry Hills,NSW,2010
+Kings Cross,NSW,2011
+Alexandria,NSW,2015
+Redfern,NSW,2016
+Waterloo,NSW,2017
+Rosebery,NSW,2018
+Botany,NSW,2019
+Mascot,NSW,2020
+Paddington,NSW,2021
+Bondi Junction,NSW,2022
+Bellevue Hill,NSW,2023
+Waverley,NSW,2024
+Woollahra,NSW,2025
+Bondi,NSW,2026
+Edgecliff,NSW,2027
+Double Bay,NSW,2028
+Rose Bay,NSW,2029
+Vaucluse,NSW,2030
+Randwick,NSW,2031
+Kingsford,NSW,2032
+Kensington,NSW,2033
+Coogee,NSW,2034
+Pagewood,NSW,2035
+Matraville,NSW,2036
+Glebe,NSW,2037
+Annandale,NSW,2038
+Rozelle,NSW,2039
+Leichhardt,NSW,2040
+Balmain,NSW,2041
+Newtown,NSW,2042
+Erskineville,NSW,2043
+St Peters,NSW,2044
+Haberfield,NSW,2045
+Five Dock,NSW,2046
+Drummoyne,NSW,2047
+Stanmore,NSW,2048
+Petersham,NSW,2049
+Camperdown,NSW,2050
+North Sydney,NSW,2060
+Milsons Point,NSW,2061
+Cammeray,NSW,2062
+Northbridge,NSW,2063
+Artarmon,NSW,2064
+Crows Nest,NSW,2065
+Lane Cove,NSW,2066
+Chatswood,NSW,2067
+Willoughby,NSW,2068
+Roseville,NSW,2069
+Lindfield,NSW,2070
+Killara,NSW,2071
+Gordon,NSW,2072
+Pymble,NSW,2073
+Turramurra,NSW,2074
+St Ives,NSW,2075
+Wahroona,NSW,2076
+Hornsby,NSW,2077
+Mount Colah,NSW,2079
+Mount Kuring-gai,NSW,2080
+Berowra Waters,NSW,2082
+Terrey Hills,NSW,2084
+Belrose,NSW,2085
+Frenchs Forest,NSW,2086
+Forestville,NSW,2087
+Mosman,NSW,2088
+Neutral Bay,NSW,2089
+Cremorne,NSW,2090
+Seaforth,NSW,2092
+Balgowlah,NSW,2093
+Manly,NSW,2095
+Harbord,NSW,2096
+Collaroy,NSW,2097
+Dee Why,NSW,2099
+Brookvale,NSW,2100
+Narrabeen,NSW,2101
+Warriewood,NSW,2102
+Mona Vale,NSW,2103
+Bayview,NSW,2104
+Newport,NSW,2106
+Avalon,NSW,2107
+Hunters Hill,NSW,2110
+Gladesville,NSW,2111
+Ryde,NSW,2112
+North Ryde,NSW,2113
+Meadowbank,NSW,2114
+Ermington,NSW,2115
+Rydalmere,NSW,2116
+Telopea,NSW,2117
+Carlingford,NSW,2118
+Beecroft,NSW,2119
+Pennant Hills,NSW,2120
+Epping,NSW,2121
+Eastwood,NSW,2122
+W. Pennant Hills,NSW,2125
+Cherrybrook,NSW,2126
+Homebush Bay,NSW,2127
+Silverwater,NSW,2128
+Sydney Markets,NSW,2129
+Summer Hill,NSW,2130
+Ashfield,NSW,2131
+Croydon,NSW,2132
+Croydon Park,NSW,2133
+Burwood,NSW,2134
+Strathfield,NSW,2135
+Enfield,NSW,2136
+Concord,NSW,2137
+Rhodes,NSW,2138
+Homebush,NSW,2140
+Lidcombe,NSW,2141
+Granville,NSW,2142
+Regents Park,NSW,2143
+Auburn,NSW,2144
+Wentworthville,NSW,2145
+Toongabbie,NSW,2146
+Seven Hills,NSW,2147
+Blacktown,NSW,2148
+Parramatta,NSW,2150
+North Rocks,NSW,2151
+Northmead,NSW,2152
+Baulkham Hills,NSW,2153
+Castle Hill,NSW,2154
+Kellyville,NSW,2155
+Kenthurst,NSW,2156
+Glenorie,NSW,2157
+Dural,NSW,2158
+Galston,NSW,2159
+Merrylands,NSW,2160
+Yennora,NSW,2161
+Chester Hill,NSW,2162
+Villawood,NSW,2163
+Smithfield/W.Park,NSW,2164
+Fairfield,NSW,2165
+Lansvale,NSW,2166
+Liverpool,NSW,2170
+Hoxton Park,NSW,2171
+St Johns Park,NSW,2176
+Chullora,NSW,2190
+Belfield,NSW,2191
+Belmore,NSW,2192
+Canterbury,NSW,2193
+Campsie,NSW,2194
+Lakemba,NSW,2195
+Punchbowl,NSW,2196
+Georges Hall,NSW,2198
+Yagoona,NSW,2199
+Bankstown,NSW,2200
+Dulwich Hill,NSW,2203
+Marrickville,NSW,2204
+Arncliffe,NSW,2205
+Earlwood,NSW,2206
+Bexley,NSW,2207
+Kingsgrove,NSW,2208
+Beverly Hills,NSW,2209
+Peakhurst,NSW,2210
+Padstow,NSW,2211
+Revesby,NSW,2212
+East Hills,NSW,2213
+Milperra,NSW,2214
+Rockdale,NSW,2216
+Kogarah,NSW,2217
+Carlton,NSW,2218
+Sans Souci,NSW,2219
+Hurstville,NSW,2220
+Blakehurst,NSW,2221
+Penshurst,NSW,2222
+Mortdale,NSW,2223
+Sylvania,NSW,2224
+Oyster Bay,NSW,2225
+Jannali,NSW,2226
+Gymea,NSW,2227
+Miranda,NSW,2228
+Caringbah,NSW,2229
+Cronulla,NSW,2230
+Kurnell,NSW,2231
+Sutherland,NSW,2232
+Heathcote,NSW,2233
+Menai,NSW,2234
+Campbelltown,NSW,2560
+Ingleburn,NSW,2565
+Minto,NSW,2566
+Narellan,NSW,2567
+Camden,NSW,2570
+Mulgoa,NSW,2745
+Kingswood,NSW,2747
+Castlereagh,NSW,2749
+Penrith,NSW,2750
+Silverdale,NSW,2752
+Richmond,NSW,2753
+North Richmond,NSW,2754
+Windsor,NSW,2756
+Kurrajong,NSW,2758
+Erskine Park,NSW,2759
+St Marys,NSW,2760
+Glendenning,NSW,2761
+Quakers Hill,NSW,2763
+Riverstone,NSW,2765
+Rooty Hill,NSW,2766
+Parklea,NSW,2768
+Minchinbury,NSW,2770
